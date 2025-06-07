@@ -1,0 +1,2 @@
+# Quantum-Key-Distribution-For-Enhanced-Network-Security
+Explored the Qiskit implementation and security evaluation of the BB84 Quantum Key Distribution (QKD) protocol, leveraging superposition and the no-cloning theorem for secure key exchange. Analyzed its robustness against quantum attacks like Photon Number Splitting and evaluated efficiency under eavesdropping and system noise conditions using QBER.
